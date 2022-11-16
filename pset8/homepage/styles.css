@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Freehand&family=Poppins:wght@400;700&family=Roboto:wght@300;700&family=Ubuntu:wght@700&display=swap');
+body {
+    background-color: #6394a4;
+}
+section {
+    margin: 1em;
+    background-color: #ddddff;
+    padding: 1em;
+    border-radius: 20px;
+}
+#carousel-images
+{
+    width: 55%
+}
+#carousel-container
+{
+    margin-top: 1em;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    font-family: "Roboto";
+    font-size: large;
+    padding: 0.4em;
+    text-align: justify;
+}
