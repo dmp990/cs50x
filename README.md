@@ -93,7 +93,7 @@ My solutions to problem sets of [Harvard's CS50x 2022](https://cs50.harvard.edu/
 
   
 
-#### Problem Set 9
+#### [Problem Set 9](https://cs50.harvard.edu/x/2022/psets/9/)
 
 * [Finance](pset9/finance)
 
